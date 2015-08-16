@@ -10,4 +10,6 @@ Le fichier refresh.py est là pour actualiser la page php du script, les tâches
 - - -
 
 ## Problèmes
-Limitation de l'api Twitter. Les messages du type "DM @[nom] [messages]" qui spam une personne de DM.
+Limitation de l'api Twitter. 
+
+Fix : Les messages du type "DM @[nom] [messages]" qui spam une personne de DM.
